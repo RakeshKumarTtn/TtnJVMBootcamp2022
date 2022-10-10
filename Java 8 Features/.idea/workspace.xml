@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69cb8693-16b6-4217-8a55-690c1843772e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java 8 Features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question1/ConcatTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question1/ConvertStringToUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question1/GreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question1/IncrementNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question2/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question2/MathematicalOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question3/CreateThreadUsingLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question4/CollectEvenNumbersFromStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question4/FindUniqueEmployeeNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question5/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question5/MultipleInheritanceUsingDefaultInterfaceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question5/SecondInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/features/Question5/ThirdInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Collections/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Collections/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FU38vGSUW2iD91sPSZzK6OYHOS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MultipleInheritanceUsingDefaultInterfaceMethod">
+    <configuration name="CollectEvenNumbersFromStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Question4.CollectEvenNumbersFromStream" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.Question4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateThreadUsingLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Question3.CreateThreadUsingLambda" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.Question3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindUniqueEmployeeNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Question4.FindUniqueEmployeeNames" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.Question4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleInheritanceUsingDefaultInterfaceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Question5.MultipleInheritanceUsingDefaultInterfaceMethod" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.Question5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.java8.features.Question2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.features.Question2.Main" />
+      <module name="Java 8 Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.features.Question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MultipleInheritanceUsingDefaultInterfaceMethod" />
+        <item itemvalue="Application.FindUniqueEmployeeNames" />
+        <item itemvalue="Application.CollectEvenNumbersFromStream" />
+        <item itemvalue="Application.CreateThreadUsingLambda" />
+        <item itemvalue="Application.com.java8.features.Question2.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69cb8693-16b6-4217-8a55-690c1843772e" name="Changes" comment="" />
+      <created>1664532682296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664532682296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
