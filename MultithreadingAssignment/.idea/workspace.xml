@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b311987f-159e-41d3-a1fa-b96af9f27183" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BootCamp_2022/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BootCamp_2022/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BootCamp_2022/src/test/java/org/ttn/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BootCamp_2022/src/test/java/org/ttn/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/Java 9-17 Features.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question1/UseOfPrivateMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question2/DropWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question2/TakeWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question3/RangeClosedInStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question4/IteratorStreamMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question5/OrElseThrow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question5/PresentOrElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question6/OptionalIntoStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question7/OfMethodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question8/AutoCloseAble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Features/src/com/java9_17/features/Question9/UnModifiedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FkyYXI4QumOefdwgrHRNVIFNAS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DeadLockSolution">
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.multithreading.Question5.DeadLock" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.multithreading.Question5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeadLockSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.multithreading.Question5.DeadLockSolution" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.multithreading.Question5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemonstrateCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.multithreading.Question4.DemonstrateCallable" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.multithreading.Question4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThreadExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.multithreading.Question2.executorframeworkmethods.SingleThreadExecutor" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.multithreading.Question2.executorframeworkmethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizeMethodAndBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.multithreading.Question3.SynchronizeMethodAndBlock" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.multithreading.Question3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeadLockSolution" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.DemonstrateCallable" />
+        <item itemvalue="Application.SynchronizeMethodAndBlock" />
+        <item itemvalue="Application.SingleThreadExecutor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b311987f-159e-41d3-a1fa-b96af9f27183" name="Changes" comment="" />
+      <created>1665050425897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665050425897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

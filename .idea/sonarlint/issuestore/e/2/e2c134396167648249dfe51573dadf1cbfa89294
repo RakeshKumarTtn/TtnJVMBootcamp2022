@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÓ–¼
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+?
+java:S1659	")Declare "designation" on a separate line.(ú·Ö
+?
+java:S1659
+"$Declare "salary" on a separate line.(¢şÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÇÀ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ı‹–ºşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­¹€Ğÿÿÿÿÿ
+?
+java:S1481	")Remove this unused "name" local variable.(ú·Ö
+F
+java:S1481	"0Remove this unused "designation" local variable.(ú·Ö
+C
+java:S1481
+"(Remove this unused "age" local variable.(¢şÿÿÿÿ
+F
+java:S1481
+"+Remove this unused "salary" local variable.(¢şÿÿÿÿ

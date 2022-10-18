@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banking System/Banking System.iml" filepath="$PROJECT_DIR$/Banking System/Banking System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8 Features/Java 8 Features.iml" filepath="$PROJECT_DIR$/Java 8 Features/Java 8 Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 9-17 Feature/Java 9-17 Feature.iml" filepath="$PROJECT_DIR$/Java 9-17 Feature/Java 9-17 Feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Collections/Java Collections.iml" filepath="$PROJECT_DIR$/Java Collections/Java Collections.iml" />
+    </modules>
+  </component>
+</project>
